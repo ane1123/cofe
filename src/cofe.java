@@ -21,6 +21,8 @@ public class cofe {
         int Cup = 9;
         int j;
 
+        String s = "что за git такой?";
+
 
         int cof;
         int w2;
